@@ -60,5 +60,5 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Patricio_vega04/?next=%2F)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patriciovega037@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/543562458323)
-[![Phonepe](https://img.shields.io/badge/Portafolio-54039A?style=for-the-badge&logoColor=white)](https://porfolio-eta-pink.vercel.app/)
+
 </div>
