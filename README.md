@@ -1,7 +1,7 @@
 <h1 align="center">
-  <code>&lt;h1&gt;</code> 
+  
   <b>Hi :smiley:, I'm Patricio Vega</b>
-  <code>&lt;/h1&gt;</code>
+ 
   <br>
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </h1>
